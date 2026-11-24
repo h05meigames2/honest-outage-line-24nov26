@@ -1,0 +1,1 @@
+All servers are down and I can't reach any of them to check why. I don't know yet if it's our code, the host, or the network; I'll update here when I do.
